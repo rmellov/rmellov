@@ -1,15 +1,17 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Desenvolvedor .NET
+  Desenvolvedor .NET 
 </p>
 
 <p align="left"> 
-  Estudando e desenvolvendo projetos pessoais. 
+  Bacharel em Tecnologia da informação  
+<br> 
+  Pós graduado em Desenvolvimento de Sistemas.
+<br>
+  Desenvolvedor backend C# com conhecimentos em frontend 🤣 ...
 </p>
 
-<br>
-<br>
 <br>
 <br>
 
