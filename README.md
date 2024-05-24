@@ -8,8 +8,6 @@
   Bacharel em Tecnologia da informação  
 <br> 
   Pós graduado em Desenvolvimento de Sistemas.
-<br>
-  Desenvolvedor backend C# com conhecimentos em frontend 🤣 ...
 </p>
 
 <br>
