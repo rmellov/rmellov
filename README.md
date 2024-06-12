@@ -1,9 +1,5 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
-<p align="left"> 
-  .NET Developer 
-</p>
-
 <p align="justify"> 
   Experience with .NET development. My activities range from bug fixes to new projects. I was responsible for developing migration solutions and updating legacy systems. Experience with relational and non-relational databases. Knowledge of design patterns and agile methodologies.
 </p>
